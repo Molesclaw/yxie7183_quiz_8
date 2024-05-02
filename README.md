@@ -1,4 +1,5 @@
 # yxie7183_quiz_8
 My week 8 quiz
 
-**I love researching stuff for class**
+## Part 1: Imaging Technique Inspiration
+### *Particle Systems*
