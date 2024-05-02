@@ -11,13 +11,19 @@ This technique can create visual effects that have vast and dynamic feature. By 
 
 **Examples** 
 
+1.
 ![Earth from Space](https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.LAL.9556540.7055475/453380.jpg)
 
+*Particle effects and animation*
+
+2.
 ![The Great Daylight Comet](https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.STC.9300130.7055475/306860.jpg)
+
+*Mouse move animation and interaction*
 
 ## Part 2: Coding Technique Exploration
 ### *Coding Technique*
-I believe using p5.js is good to implement this imaging technique.
+I believe using p5.js works for implementing this imaging technique.
 
 I think I can achieve it by setting the particle objects as arrays to manage their properties consistently (like initial and changing coordinates, velocity, etc.). Also, using a for loop to create them in large numbers. Use functions to animate particles response to user inputs(e.g., mouse movement). Make the particles react dynamically to enhance the interactive aspect of the design.
 
