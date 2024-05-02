@@ -11,15 +11,11 @@ This technique can create visual effects that have vast and dynamic feature. By 
 
 **Examples** 
 
-1.
+*Particle effects and animation*
 ![Earth from Space](https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.LAL.9556540.7055475/453380.jpg)
 
-*Particle effects and animation*
-
-2.
-![The Great Daylight Comet](https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.STC.9300130.7055475/306860.jpg)
-
 *Mouse move animation and interaction*
+![The Great Daylight Comet](https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.STC.9300130.7055475/306860.jpg)
 
 ## Part 2: Coding Technique Exploration
 ### *Coding Technique*
