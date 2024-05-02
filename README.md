@@ -28,3 +28,14 @@ This technique allows particle systems in p5.js to move according to simple rule
 Those interactive elements would make the artwork more engaging, and allow viewers to feel a part of the creation process, enhancing the overall experience and accessibility of the project.
 
 **Examples** 
+
+*Add particles and animate particles*
+![Image of Flocking](readmeImages/Flocking.png)
+
+[Link to this example and code](https://p5js.org/examples/simulate-flocking.html)
+
+
+*User interaction with particles*
+![Planets](https://happycoding.io/tutorials/p5js/creating-classes/images/planets-2.gif)
+
+[Link to this example and code](https://happycoding.io/tutorials/p5js/creating-classes/planets)
