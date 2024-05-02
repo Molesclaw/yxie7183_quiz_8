@@ -10,3 +10,6 @@ For my project, I am inspired by the stars and galaxies (usd as particles) in sp
 ![Earth from Space](https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.LAL.9556540.7055475/453380.jpg)
 
 ![The Great Daylight Comet](https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.STC.9300130.7055475/306860.jpg)
+
+## Part 2: Coding Technique Exploration
+### *Coding Technique*
