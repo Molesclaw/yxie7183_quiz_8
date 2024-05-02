@@ -34,8 +34,8 @@ Those interactive elements would make the artwork more engaging, and allow viewe
 
 [Link to this example and code](https://p5js.org/examples/simulate-flocking.html)
 
-
 *User interaction with particles*
+
 ![Planets](https://happycoding.io/tutorials/p5js/creating-classes/images/planets-2.gif)
 
 [Link to this example and code](https://happycoding.io/tutorials/p5js/creating-classes/planets)
