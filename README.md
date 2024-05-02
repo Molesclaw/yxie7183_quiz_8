@@ -19,6 +19,10 @@ This technique can create visual effects that have vast and dynamic feature. By 
 ### *Coding Technique*
 I think using p5.js will help me implement this imaging technique.
 
-By setting the particles as arrays to manage their attributes consistently as well as their initial and changing coordinates. Use a for loop to create them in large numbers. Use functions to animate these particles to form various shapes or new patterns.
+By setting the particle objects as arrays to manage their properties consistently (like initial and changing coordinates, velocity, etc.). Use a for loop to create them in large numbers. Use functions to animate these particles to respond to user inputs, such as mouse movement. Make the particles react dynamically to enhance the interactive aspect of the design.
 
-This technique allows particles to drift, cluster, or disperse based on the viewer's input and interation, making the artwork's elements fluid and keep changing. Those interactive elements would make the artwork more engaging, and allow participants to feel a part of the creation process, enhancing the overall experience and accessibility of the project.
+This technique allows particle systems in p5.js to move according to simple rules, yet simulate various natural phenomena and create visually appealing interactive graphics, making the artwork's elements fluid and keep changing based on the viewer's input and interaction.
+
+Those interactive elements would make the artwork more engaging, and allow participants to feel a part of the creation process, enhancing the overall experience and accessibility of the project.
+
+**Examples** 
